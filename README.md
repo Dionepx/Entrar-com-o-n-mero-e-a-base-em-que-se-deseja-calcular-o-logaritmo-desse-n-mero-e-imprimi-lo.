@@ -1,0 +1,1 @@
+# Entrar-com-o-n-mero-e-a-base-em-que-se-deseja-calcular-o-logaritmo-desse-n-mero-e-imprimi-lo.
